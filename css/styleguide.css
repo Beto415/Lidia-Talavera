@@ -1,0 +1,92 @@
+:root { 
+  --background-grey: #fafdff;
+  --black: #000000;
+  --eye-shadow200: #c2cdd6;
+  --mascara500: #202020;
+  --off-black---lt: #202020;
+  --toner500: #fbfdff;
+  --toner950: #000d1a;
+ 
+  --font-size-16px: 16px;
+  --font-size-m: 27px;
+  --font-size-s: 24.9px;
+  --font-size-xs: 22.4px;
+  --font-size-xxs: 21px;
+  --font-size-xxxs: 20.1px;
+  --font-size-xxxxs: 20px;
+  --font-size-xxxxxs: 18px;
+ 
+  --font-family-gilroy-bold: "Gilroy-Bold", Helvetica;
+  --font-family-gilroy-extrabold: "Gilroy-ExtraBold", Helvetica;
+  --font-family-gilroy-medium: "Gilroy-Medium", Helvetica;
+  --font-family-gilroy-regularitalic-☞: "Gilroy-RegularItalic-☞", Helvetica;
+}
+.medium-body-copy-medium {
+  font-family: var(--font-family-gilroy-medium);
+  font-size: var(--font-size-16px);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.gilroy-medium-white-15px {
+  font-family: var(--font-family-gilroy-medium);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gilroy-medium-white-25px {
+  font-family: var(--font-family-gilroy-medium);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gilroy-medium-black-22-4px {
+  color: var(--black);
+  font-family: var(--font-family-gilroy-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gilroy-bold-coconut-18px {
+  color: var(--background-grey);
+  font-family: var(--font-family-gilroy-bold);
+  font-size: var(--font-size-xxxxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gilroy-bold-coconut-18px-2 {
+  color: var(--background-grey);
+  font-family: var(--font-family-gilroy-bold);
+  font-size: var(--font-size-xxxxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gilroy-medium-coconut-20-1px {
+  color: var(--toner500);
+  font-family: var(--font-family-gilroy-medium);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gilroy-medium-coconut-18px {
+  color: var(--background-grey);
+  font-family: var(--font-family-gilroy-medium);
+  font-size: var(--font-size-xxxxxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gilroy-medium-coconut-18px-2 {
+  color: var(--background-grey);
+  font-family: var(--font-family-gilroy-medium);
+  font-size: var(--font-size-xxxxxs);
+  font-style: normal;
+  font-weight: 500;
+}
